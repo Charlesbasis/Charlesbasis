@@ -1,39 +1,101 @@
-<h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesbasis&label=Profile%20views&color=0e75b6&style=flat" alt="charlesbasis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesbasis" alt="charlesbasis" /></a> </p>
-
-- 🔭 I’m currently working on **developing Apps**
-
-- 👯 I’m looking to collaborate on **open source**
-
-- 👨‍💻 All of my projects are available at [https://www.cvhowlader.com/portfolio-one/](https://www.cvhowlader.com/portfolio-one/)
-
-- 📝 I regularly write articles on [https://www.cvhowlader.com/](https://www.cvhowlader.com/)
-
-- 📫 How to reach me **info@cvhowlader.com​**
-
-- 📄 Know about my experiences [https://www.cvhowlader.com/](https://www.cvhowlader.com/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/charlesbasis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="charlesbasis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charles-valerio-howlader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-valerio-howlader" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6795005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6795005" height="30" width="40" /></a>
-<a href="/https://www.cvhowlader.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.cvhowlader.com/" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Charles Valerio Howlader 👋</h1>
+<p align="center">
+  <b>Laravel Bug Fixer & WordPress Speed Optimizer</b> • 5+ Years Experience • 48h Turnaround
 </p>
+<p align="center">
+  <a href="https://app3.cvhowlader.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Product_Manager-10b981?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="https://app.cvhowlader.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Portfolio_Site-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/charles-valerio-howlader/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:charlesvhow@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+🚀 What I Do
+I fix broken Laravel applications and rescue slow WordPress sites for small businesses and startups.
+🔧 Laravel Bug Fixes — API timeouts, payment gateway errors, database issues, authentication problems
+⚡ WordPress Speed Optimization — Core Web Vitals, caching, database cleanup, plugin conflicts
+🔗 API Integrations — Stripe, PayPal, Twilio, Google APIs, webhooks
+🛠️ Full-Stack Development — Laravel + React/Next.js + WordPress headless setups
+Typical turnaround: 24–48 hours for urgent fixes.
+🏗️ Featured Projects
+Product Manager — Laravel 12 + React 19
+A full-stack product management system with real-time analytics, import/export, 2FA, and dark/light themes.
+Live Demo: app3.cvhowlader.com
+✅ Full CRUD with image upload & multi-tag support
+✅ Dashboard analytics with interactive charts (Recharts)
+✅ Bulk import/export via Excel (.xlsx, .csv)
+✅ Two-factor authentication (Laravel Fortify)
+✅ Dark/Light theme with system preference detection
+✅ SEO-friendly blog with sitemap generation
+Tech: Laravel 12 • PHP 8.2 • React 19 • TypeScript • Vite 7 • Tailwind CSS 4 • Inertia.js • MySQL
+Portfolio Starter Kit — Next.js 16 + Headless WordPress
+A professional-grade, SEO-optimized headless WordPress starter built for speed and scalability.
+Live Demo: app.cvhowlader.com
+✅ Next.js 16 App Router with React 19
+✅ Headless WordPress with WP REST API
+✅ Instant cache revalidation via custom plugin
+✅ Dynamic sitemap.xml, robots.txt, manifest.json
+✅ Docker containerized stack (Next.js + WordPress + MariaDB)
+✅ Hybrid auth: local MySQL + WordPress account sync
+Tech: Next.js 16 • React 19 • Tailwind CSS v4 • WordPress • Docker • MariaDB
+Production Team Work
+I've also contributed to production team projects including:
+E-Commerce Manager (Next.js) — Cart system, product variants, category management, store public pages
+Task Management App (React + Laravel) — Linear-style UI, attendance tracking, task comments, real-time updates
+SEO Content Platform — Keyword density analysis, image alt optimization, sitemap generation, focus keyword tracking
+WordPress CRM Plugin — Member check-in system, bulk tag management, shortcode implementations
+Social Media Sync (WordPress) — Webhook-based auto-posting to Instagram and other platforms
+QR Code Generator (ReactJS + PHP) — Custom logo embedding, color customization, database storage
+🛠️ Tech Stack
+Backend:
+ Laravel 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ PHP 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesbasis&show_icons=true&locale=en&layout=compact" alt="charlesbasis" /></p>
+ Node.js 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesbasis&show_icons=true&locale=en" alt="charlesbasis" /></p>
+ MySQL 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesbasis&" alt="charlesbasis" /></p>
+ WordPress 
+Frontend:
+ React 
+
+ Next.js 
+
+ TypeScript 
+
+ Tailwind CSS 
+
+ JavaScript 
+Tools & DevOps:
+ Git 
+
+ Docker 
+
+ Vite 
+
+ Linux 
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charlesbasis&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+🌍 Languages
+🇬🇧 English — Full Professional Proficiency
+🇧🇩 Bengali — Native
+🇯🇵 Japanese — Elementary
+🇮🇳 Hindi — Limited Working Proficiency
+🎓 Education
+MBA — Operations & Supply Chain Management, University of Chittagong (2019–2021)
+B.Sc. EEE — Electrical & Electronic Engineering, Independent University Bangladesh (2012–2015)
+CCNA — Cisco Certified Networking Associate: Routing & Switching (2016–2017)
+💼 Available For
+🔴 Urgent Bug Fixes — Laravel/PHP/WordPress (24–48h turnaround)
+🟡 Speed Optimization — WordPress Core Web Vitals, caching, database tuning
+🟢 API Integrations — Payment gateways, third-party services, webhook setups
+🔵 Monthly Retainers — Site maintenance, security updates, ongoing support
+<p align="center">
+  <a href="mailto:charlesvhow@gmail.com"><img src="https://img.shields.io/badge/📧_Hire_Me-Email_Now-10b981?style=for-the-badge" /></a>
+  <a href="https://www.upwork.com/freelancers/~01be78cdb19309c4cb" target="_blank"><img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/charles_vh_14" target="_blank"><img src="https://img.shields.io/badge/Fiverr-Order-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+</p>
+<p align="center">
+  <i>"I don't just write code — I solve business problems with clean, maintainable solutions."</i>
+</p>
