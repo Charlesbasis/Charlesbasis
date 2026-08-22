@@ -8,14 +8,15 @@
   <a href="https://www.linkedin.com/in/charles-valerio-howlader/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:charlesvhow@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-🚀 What I Do
-I fix broken Laravel applications and rescue slow WordPress sites for small businesses and startups.
-🔧 Laravel Bug Fixes — API timeouts, payment gateway errors, database issues, authentication problems
-⚡ WordPress Speed Optimization — Core Web Vitals, caching, database cleanup, plugin conflicts
-🔗 API Integrations — Stripe, PayPal, Twilio, Google APIs, webhooks
-🛠️ Full-Stack Development — Laravel + React/Next.js + WordPress headless setups
-Typical turnaround: 24–48 hours for urgent fixes.
-🏗️ Featured Projects
+## 🚀 What I Do
+
+I fix broken Laravel applications...
+
+- 🔧 **Laravel Bug Fixes** — API timeouts...
+- ⚡ **WordPress Speed Optimization** — Core Web Vitals...
+
+## 🏗️ Featured Projects
+
 Product Manager — Laravel 12 + React 19
 A full-stack product management system with real-time analytics, import/export, 2FA, and dark/light themes.
 Live Demo: app3.cvhowlader.com
