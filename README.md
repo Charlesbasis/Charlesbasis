@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Charles Valerio Howlader 👋</h1>
 <p align="center">
-  <b>Laravel Bug Fixer & WordPress Speed Optimizer</b> • 5+ Years Experience • 48h Turnaround
+  <b>Laravel & WordPress Rescue Specialist — 48h turnaround for broken apps and slow sites
 </p>
 <p align="center">
   <a href="https://app3.cvhowlader.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Product_Manager-10b981?style=for-the-badge&logo=laravel&logoColor=white" /></a>
