@@ -4,7 +4,6 @@
 </p>
 <p align="center">
   <a href="https://app3.cvhowlader.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Product_Manager-10b981?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-  <a href="https://app.cvhowlader.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Portfolio_Site-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/charles-valerio-howlader/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:charlesvhow@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
