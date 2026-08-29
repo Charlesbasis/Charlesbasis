@@ -78,15 +78,6 @@ Tools & DevOps:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charlesbasis&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
-🌍 Languages
-🇬🇧 English — Full Professional Proficiency
-🇧🇩 Bengali — Native
-🇯🇵 Japanese — Elementary
-🇮🇳 Hindi — Limited Working Proficiency
-🎓 Education
-MBA — Operations & Supply Chain Management, University of Chittagong (2019–2021)
-B.Sc. EEE — Electrical & Electronic Engineering, Independent University Bangladesh (2012–2015)
-CCNA — Cisco Certified Networking Associate: Routing & Switching (2016–2017)
 💼 Available For
 🔴 Urgent Bug Fixes — Laravel/PHP/WordPress (24–48h turnaround)
 🟡 Speed Optimization — WordPress Core Web Vitals, caching, database tuning
